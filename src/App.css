@@ -160,3 +160,10 @@ p {
     padding: 10px;
   }
 }
+.form-container h1 {
+  text-align: center;
+  color: #1e293b;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
